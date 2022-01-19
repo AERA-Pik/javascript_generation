@@ -42,7 +42,7 @@ function random (min, max) {
     //Math.random Numero aleatorio entre o y 1
     //Mat.floor te da el numero entero más cercano
 }
-let numeroSec =random (20, 40);
+let numeroSec =random (0, 100);
 console.log(numeroSec);
 
 
